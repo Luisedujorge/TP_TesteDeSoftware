@@ -1,4 +1,4 @@
-# TP_TesteDeSoftware
+# Trabalho Prático de Teste De Software
 
 Integrantes: Igor Novais Barroso
              Luís Eduardo Jorge Almeida
